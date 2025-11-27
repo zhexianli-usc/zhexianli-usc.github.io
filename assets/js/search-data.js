@@ -419,16 +419,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-joined-university-of-california-santa-barbara-as-a-visiting-student-in-the-department-of-mechanical-engineering-feel-free-to-reach-out-for-coffee-chat-and-more",
+          title: 'Joined University of California, Santa Barbara as a visiting student in the department...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-a-complex-spatial-frequency-approach-to-optimal-control-of-finite-extent-linear-evolution-systems-was-conditionally-accepted-by-ieee-transactions-on-automatic-control",
+          title: 'Our paper ``A complex spatial frequency approach to optimal control of finite-extent linear...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
