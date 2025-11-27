@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a> University of Southern California</a>
+subtitle: >
+          <a> University of Southern California</a>
           <a> zhexianl@usc.edu </a>
 
 profile:
@@ -31,5 +32,4 @@ latest_posts:
 I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Southern California (USC). My research focuses on learning and control of transport systems in civil infrastructures, including vehicular traffic on roadways and solute transport in fluids. I use tools from systems and control theory, optimization, and partial differential equations to understand fundamental performance limits and develop computational methods for transport systems.
 
 I am fortunate to be advised by [Ketan Savla](https://viterbi-web.usc.edu/~ksavla/). 
-I also work closely with [Felipe de Barros](https://www.felipedebarros.com) on solute transport problems. 
 Prior to USC, I received a B.Eng. degree in transportation at Southeast University.
