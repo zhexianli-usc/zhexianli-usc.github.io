@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching experience and philosophy in control, optimization, and systems engineering.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "Please find the CV updated in Nov. 2025 using the pdf download button.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "nav-people",
           title: "people",
@@ -419,11 +419,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-university-of-california-santa-barbara-as-a-visiting-student-in-the-department-of-mechanical-engineering-feel-free-to-reach-out-for-coffee-chat-and-more",
+            },},{id: "news-joined-university-of-california-santa-barbara-as-a-visiting-student-in-the-department-of-mechanical-engineering-feel-free-to-reach-out-to-chat",
           title: 'Joined University of California, Santa Barbara as a visiting student in the department...',
           description: "",
           section: "News",},{id: "news-our-paper-a-complex-spatial-frequency-approach-to-optimal-control-of-finite-extent-linear-evolution-systems-was-conditionally-accepted-by-ieee-transactions-on-automatic-control",
-          title: 'Our paper ``A complex spatial frequency approach to optimal control of finite-extent linear...',
+          title: 'Our paper “A complex spatial frequency approach to optimal control of finite-extent linear...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
