@@ -6,7 +6,6 @@ title: teaching
 nav: true
 nav_order: 3
 ---
-## Teaching Experience
 
 ### University of Southern California
 
@@ -17,13 +16,13 @@ nav_order: 3
 - Held office hours and provided one-on-one support for students struggling with mathematical concepts
 - Substituted the instructor for a few lectures where I prepared and delivered my own lecture materials
 
-**CE 330: Computer Methods in Civil Engineering (Numerical Analysis)** (Spring 2023 -- 2024)  
+**CE 330: Computer Methods in Civil Engineering (Numerical Analysis)** (Spring 2024 -- 2025)  
 *Teaching Assistant*
 
 - Mentored students in Python programming for data analysis and numerical methods
 - Assisted with course projects involving real-world data analysis and problem-solving
 
-## Sample Feedbacks
+### Sample Feedbacks
 
 - "*Zhexian was very helpful and always willing to accommodate me outside of class and office hours if I had conflicts. He is patient and explains concepts clearly*."
 - "*An excellent TA and a great guy who cares about his students, thank you Zhexian*!"
