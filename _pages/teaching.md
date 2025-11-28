@@ -22,6 +22,8 @@ nav_order: 3
 - Mentored students in Python programming for data analysis and numerical methods
 - Assisted with course projects involving real-world data analysis and problem-solving
 
+---
+
 ### Sample Feedbacks
 
 - "*Zhexian was very helpful and always willing to accommodate me outside of class and office hours if I had conflicts. He is patient and explains concepts clearly*."
