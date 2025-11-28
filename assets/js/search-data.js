@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Please find the [CV]({{ &#39;/assets/pdf/CV_Zhexian_Li-2025.pdf&#39; | relative_url }}) updated in Nov. 2025.",
+          description: "Please find the CV updated in Nov. 2025.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
