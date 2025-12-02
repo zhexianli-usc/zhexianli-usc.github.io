@@ -6,7 +6,7 @@ subtitle: >
           <a> Ph.D. Candidate at University of Southern California</a>
 profile:
   align: right
-  image: prof_pic.pdf
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>zhexianl[at]usc[dot]edu</p>
