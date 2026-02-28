@@ -8,6 +8,9 @@
             {% if site.first_name %}
               <span class="font-weight-bold">
                 {{- site.first_name -}}
+                {%- if site.first_name_pronunciation -%}
+                  <a href="{{ site.first_name_pronunciation }}" target="_blank" rel="noopener noreferrer" aria-label="Pronunciation of {{ site.first_name }}">*</a>
+                {%- endif -%}
               </span>
             {% endif %}
             {% if site.middle_name %}

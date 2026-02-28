@@ -1,6 +1,6 @@
 {% capture footer_contents %}
   &copy; Copyright {{ site.time | date: '%Y' }}
-  {{ site.first_name }}
+  {{ site.first_name }}{% if site.first_name_pronunciation %}<a href="{{ site.first_name_pronunciation }}" target="_blank" rel="noopener noreferrer" aria-label="Pronunciation of {{ site.first_name }}">*</a>{% endif %}
   {{ site.middle_name }}
   {{ site.last_name }}. {{ site.footer_text }}
   {% if site.impressum_path %}

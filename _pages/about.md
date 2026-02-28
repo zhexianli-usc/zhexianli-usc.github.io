@@ -25,7 +25,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Southern California. My advsior is [Dr. Ketan Savla](https://viterbi-web.usc.edu/~ksavla/). Prior to USC, I received a B.Eng. degree in transportation engineering at Southeast University in Nanjing, China.
+I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Southern California. My advsior is [Dr. Ketan Savla](https://viterbi-web.usc.edu/~ksavla/). Prior to joining USC, I received a B.Eng. degree in transportation engineering at Southeast University in Nanjing, China.
 
 I work at the intersection of theoretical domains in control, optimization, and learning, and application domains in civil infrastructure and mobility systems. My research develops algorithms and tools for smart operations of infrastructure and mobility systems with provable guarantees in performance and resilience.
 
