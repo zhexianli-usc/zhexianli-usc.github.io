@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Invited talk** at the School of Science and Engineering, the Chinese University of Hong Kong, Shenzhen.
+Invited talk at the School of Science and Engineering, the Chinese University of Hong Kong, Shenzhen.
