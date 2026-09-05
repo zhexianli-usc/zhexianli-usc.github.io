@@ -3,13 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-          <a> Ph.D. Candidate at University of Southern California</a>
+          <a> Schmidt AI in Science Postdoc Fellow</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>zhexianl[at]usc[dot]edu</p>
+    <p>zhexian[at]umich[dot]edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,10 +25,10 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Southern California. My advsior is [Dr. Ketan Savla](https://viterbi-web.usc.edu/~ksavla/). Prior to joining USC, I received a B.Eng. degree in transportation engineering at Southeast University in Nanjing, China.
+I am Schmidt AI in Science Postdoc Fellow in Michigan Institute for Data and AI in Society, University of Michigan, Ann Arbor, working with [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/) and [Dimitra Panagou](https://websites.umich.edu/~dpanagou/index.html). Prior to that, I received a Ph.D. degree in civil engineering and an M.S. degree in electrical engineering at the University of Southern California, working with [Ketan Savla](https://viterbi-web.usc.edu/~ksavla/), and received a B.Eng. degree in transportation engineering at Southeast University in Nanjing, China.
 
 I work at the intersection of theoretical domains in control, optimization, and learning, and application domains in civil infrastructure and mobility systems. My research develops algorithms and tools for smart operations of infrastructure and mobility systems with provable guarantees in performance and resilience.
 
-In my spare time, I enjoy spending time with my family and cycling around Santa Monica and Santa Ynez Mountains. 
+In my spare time, I enjoy spending time with my family and cycling around mountains and forests.
 
-**I am currently on the 2025-2026 job market.**
+<!-- **I am currently on the 2025-2026 job market.** -->
