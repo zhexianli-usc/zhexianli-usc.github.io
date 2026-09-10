@@ -3,7 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-          <a> Schmidt AI in Science Postdoc Fellow</a>
+  <a href="https://midas.umich.edu/directory/zhexian-li/" target="_blank" rel="noopener noreferrer">
+    Schmidt AI in Science Postdoctoral Fellow
+  </a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -25,7 +27,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Schmidt AI in Science Postdoc Fellow in Michigan Institute for Data and AI in Society, University of Michigan, Ann Arbor, working with [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/) and [Dimitra Panagou](https://websites.umich.edu/~dpanagou/index.html). Prior to that, I received a Ph.D. degree in civil engineering and an M.S. degree in electrical engineering at the University of Southern California, working with [Ketan Savla](https://viterbi-web.usc.edu/~ksavla/), and received a B.Eng. degree in transportation engineering at Southeast University in Nanjing, China.
+I am a Schmidt AI in Science Postdoctoral Fellow at the Michigan Institute for Data and AI in Society, University of Michigan, Ann Arbor, working with [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/) and [Dimitra Panagou](https://websites.umich.edu/~dpanagou/index.html). Prior to that, I received a Ph.D. degree in civil engineering and an M.S. degree in electrical engineering at the University of Southern California, working with [Ketan Savla](https://viterbi-web.usc.edu/~ksavla/), and received a B.Eng. degree in transportation engineering at Southeast University in Nanjing, China.
 
 I work at the intersection of theoretical domains in control, optimization, and learning, and application domains in civil infrastructure and mobility systems. My research develops algorithms and tools for smart operations of infrastructure and mobility systems with provable guarantees in performance and resilience.
 
