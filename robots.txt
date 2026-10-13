@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zhexianl.github.io/sitemap.xml
+Sitemap: https://zhexianli-usc.github.io/sitemap.xml
